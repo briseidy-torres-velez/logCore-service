@@ -1,0 +1,9 @@
+C:\Users\Curso\source\repos\logCore-service\AcademyLog\bin\Debug\netcoreapp2.1\AcademyLog.deps.json
+C:\Users\Curso\source\repos\logCore-service\AcademyLog\bin\Debug\netcoreapp2.1\AcademyLog.dll
+C:\Users\Curso\source\repos\logCore-service\AcademyLog\obj\Debug\netcoreapp2.1\AcademyLog.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\logCore-service\AcademyLog\obj\Debug\netcoreapp2.1\AcademyLog.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\logCore-service\AcademyLog\obj\Debug\netcoreapp2.1\AcademyLog.AssemblyInfoInputs.cache
+C:\Users\Curso\source\repos\logCore-service\AcademyLog\obj\Debug\netcoreapp2.1\AcademyLog.AssemblyInfo.cs
+C:\Users\Curso\source\repos\logCore-service\AcademyLog\bin\Debug\netcoreapp2.1\AcademyLog.pdb
+C:\Users\Curso\source\repos\logCore-service\AcademyLog\obj\Debug\netcoreapp2.1\AcademyLog.dll
+C:\Users\Curso\source\repos\logCore-service\AcademyLog\obj\Debug\netcoreapp2.1\AcademyLog.pdb
